@@ -2,9 +2,7 @@
 
 
 # Reinforcement-Learning-Course
-This repository contains codes developed during the course of [Reinforcement Learning from Örebro University](https://www.oru.se/utbildning/kurser/kurs/reinforcement-learning-del-1-dt707a) in Autumn 2021.
+This repository contains codes I have been developing during the course of [Reinforcement Learning from Örebro University](https://www.oru.se/utbildning/kurser/kurs/reinforcement-learning-del-1-dt707a) in Autumn 2021. It includes codes for several groups of reinforcement learning algorithms (Dynamic Programming, Monte Carlo method and Temporal-difference learning). They are currently applicable to the Cliff-Walking environment in OpenAI GYM, and will be further modified to be applicable to differnt environments.
 
-
-- TODO: MORE INFORMATION COMING SOON
 - TODO: REFACTORING CODE
-- TODO: ADDING MORE ALGORITHMS
+- TODO: MODIFY CODES TO BE APPLICABLE TO ALL ENVIRONMENTS
